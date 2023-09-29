@@ -1,0 +1,6 @@
+##pydub
+##sudo apt-get install ffmpeg
+
+openai
+discord
+pydub
